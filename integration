@@ -1,4 +1,6 @@
 [
+  "au190/au190_bkk_stop",
+  "au190/au190_szep_kartya",
   "slesinger/HomeAssistant-BMR",
   "daenny/climate_group",
   "DSorlov/hasl-platform",
